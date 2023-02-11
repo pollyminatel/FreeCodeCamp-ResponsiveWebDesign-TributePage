@@ -4,7 +4,7 @@
 This project is the second challenge of the FreeCodeCamp HTML / CSS Responsive Web Design course, which aims to exercise development using CSS Box Model, CSS Flexbox, Typography, and Accessibility.
 
 ### Technology Stack
-This project is built using HTML, CSS, and JavaScript. It also uses CSS Box Model, CSS Flexbox, Typography, and accessibility best practices for styling and user experience purposes.
+This project is built using HTML and CSS. It also uses CSS Box Model, CSS Flexbox, Typography, and accessibility best practices for styling and user experience purposes.
 
 ### Features
 The following are the main features of this project:
